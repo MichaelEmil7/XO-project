@@ -33,8 +33,11 @@ JavaScript for game mechanics.
 ## Project Structure
 
 XO-project/
+
 ├── xo.html      # main HTML file
+
 ├── xo.css       # styles for layout and visuals
+
 └── xo.js        # game logic
 
 ## How to Run
