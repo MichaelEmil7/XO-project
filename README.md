@@ -32,7 +32,7 @@ JavaScript for game mechanics.
 
 ## Project Structure
 
-XO-project:
+XO-project :
 
 - xo.html      # main HTML file
 
@@ -82,7 +82,8 @@ Create a single-player mode (AI).
 
 Enhance UI/UX with animations.
 
-Author
+## Author
 
 Created by MichaelEmil7 — repository available on GitHub:
+
 https://github.com/MichaelEmil7/XO-project
